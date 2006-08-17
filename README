@@ -1,0 +1,19 @@
+This is a mirror of http://www.vim.org/scripts/script.php?script_id=1637
+
+NOT MAINTAINED , I don't recommend you to use this script, this was script I created when I was vim newbee. 
+
+
+
+
+This plugin provide functionality to enable or disalbe
+fold more easier.
+two command wil added.
+
+:MyFoldEnable
+:MyFoldDisable
+
+Parameters are based on my favorite setting( syntax base ), so please modify
+these values directly in function if you need.
+
+
+
